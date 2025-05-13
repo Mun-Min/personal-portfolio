@@ -42,8 +42,8 @@ export const Projects = () => {
     },
     {
       title: "Project 5",
-      description: "PyChain Ledger",
-      githubLink: "https://github.com/Mun-Min/PyChain_Ledger",
+      description: "Religious AI Chatbot",
+      githubLink: "https://github.com/Mun-Min/islamic-ai-frontend",
       imgUrl: projImg5,
     },
     {
